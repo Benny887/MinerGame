@@ -1,0 +1,4 @@
+mine=10
+sizeX=9
+level=NOVICE
+sizeY=9
